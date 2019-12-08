@@ -20,18 +20,3 @@ function getall() {
 }
 }
 
-
-  /*public function getDateConnexion()
-  {
-      return($this->date_connexion);
-  }
-  public function toArray()
-  {
-    $aReturn = [
-      "email" => $this->email,
-      "password_hash" => $this->password_hash,
-      "date_connexion" => $this->date_connexion
-    ];
-    return($aReturn);
-  }
-}*/
